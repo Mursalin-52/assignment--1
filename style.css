@@ -1,0 +1,95 @@
+body {
+    margin: 0px;
+    padding: 0%;
+}
+
+.bigimage {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-image: url('need.jpg');
+}
+
+.text {
+    height: 100%;
+    width: 100%;
+    font-size: 30px;
+    color: rgb(246, 244, 242);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+#donate {
+    border-radius: 5px;
+    background-image: linear-gradient(gray, rgb(29, 35, 40));
+    padding: 6px 10px;
+
+}
+
+.again-text {
+    text-align: center;
+}
+
+h1 {
+
+    font-size: 50px;
+}
+
+p {
+    font-size: medium;
+}
+
+section {
+    display: flex;
+    margin-bottom: 2%;
+}
+
+.middle-text {
+    text-align: center;
+}
+
+.half-width {
+    width: 100%;
+    padding: 6%;
+
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    color: rgb(245, 245, 245);
+    background-image: linear-gradient(rgb(255, 0, 0), tomato);
+    padding: 20x 15px 5px;
+    border-radius: 2px;
+    font-size: 25px;
+}
+
+footer {
+    text-align: center;
+    font-size: medium;
+    background-color: rgb(0, 0, 0);
+
+    border: 2px solid rgb(251, 0, 0);
+
+
+}
+
+#humble {
+    color: rgb(255, 6, 6);
+    font-style: oblique;
+    font-size: larger;
+
+}
+
+.are {
+    color: white;
+    font-style: italic;
+    font-size: medium;
+}
